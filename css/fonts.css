@@ -1,0 +1,55 @@
+@font-face {
+    font-family: 'Montserrat Bold';
+    src: url('../fonts/montserrat-v14-latin_cyrillic-700.woff2') format('woff2'),
+        url('../fonts/montserrat-v14-latin_cyrillic-700.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Montserrat Regular';
+    src: url('../fonts/montserrat-v14-latin_cyrillic-regular.woff2') format('woff2'),
+        url('../fonts/montserrat-v14-latin_cyrillic-regular.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Sintony Regular';
+    src: url('../fonts/Sintony.woff2') format('woff2'),
+        url('../fonts/Sintony.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Sintony Bold';
+    src: url('../fonts/Sintony Bold.woff2') format('woff2'),
+        url('../fonts/Sintony Bold.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'CloisterBlack';
+    src: url('../fonts/CloisterBlack.woff2') format('woff2'),
+        url('../fonts/CloisterBlack.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Harbell';
+    src: url('../fonts/Harbell.woff') format('woff2'),
+        url('../fonts/Harbell.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Playfair Display Bold';
+    src: url('../fonts/Playfair Display Bold.woff2') format('woff2'),
+        url('../fonts/Playfair Display Bold.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+}
